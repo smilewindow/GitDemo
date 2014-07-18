@@ -12,7 +12,7 @@
 @interface ViewController ()
 
 
-@property (nonatomic, strong) TestClass *testClassABC;
+@property (nonatomic, strong) TestClass *testClassABKKKK;
 
 @end
 
