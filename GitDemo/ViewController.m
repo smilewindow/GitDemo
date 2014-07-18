@@ -7,8 +7,12 @@
 //
 
 #import "ViewController.h"
+#import "TestClass.h"
 
 @interface ViewController ()
+
+
+@property (nonatomic, strong) TestClass *testClass;
 
 @end
 
